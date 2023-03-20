@@ -4,3 +4,9 @@ This repo contain everything i made while taking this course:
 
 #### Tailwind CheetSheet:
 - https://tailwindcomponents.com/cheatsheet/
+
+#### How to install 
+- https://tailwindcss.com/docs/installation
+
+#### Using live server 
+- https://www.chiarulli.me/Neovim/20-live-server/
