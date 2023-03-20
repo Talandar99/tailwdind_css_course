@@ -4,6 +4,7 @@ This repo contain everything i made while taking this course:
 
 #### Tailwind CheetSheet:
 - https://tailwindcomponents.com/cheatsheet/
+- https://tailwindcss.com/docs
 
 #### How to install 
 - https://tailwindcss.com/docs/installation
